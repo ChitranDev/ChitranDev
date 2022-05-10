@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChitranDev
+- 👋 Hi, I’m Chitranshu, developer
 - 👀 I’m interested in Creating Mind Boggling Projects with AI techniques
 - 🌱 I’m currently learning ML, DL, Computer vision
 - 💞️ I’m looking to collaborate on machine learning projects
